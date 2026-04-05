@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a second-year Computer Science student at Babeș-Bolyai University ([UBB](https://www.ubbcluj.ro/ro/)) from Cluj Napoca, passionate about programming and cybersecurity.
+I'm Florin, a second-year Computer Science student at Babeș-Bolyai University ([UBB](https://www.ubbcluj.ro/ro/)) from Cluj Napoca, passionate about programming and cybersecurity.
 
 ### 💻 Tech Stack & Tools
 
