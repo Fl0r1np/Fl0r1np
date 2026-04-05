@@ -24,7 +24,7 @@ I'm Florin, a second-year Computer Science student at Babeș-Bolyai University (
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### 🚧 In Progress Projects
-* **[WatchWithMe](https://github.com/Fl0r1np/WatchWithMe)** - Designed a full-stack web application using Angular and ASP.NET Core to to connect remote users in virtual watch parties, enabling them to instantly sync, pause, and change media together.*
+* **[WatchWithMe](https://github.com/Fl0r1np/WatchWithMe)** - *Designed a full-stack web application using Angular and ASP.NET Core to to connect remote users in virtual watch parties, enabling them to instantly sync, pause, and change media together.*
   * **Tech Stack:** Angular, ASP.NET Core, Entity Framework Core, SQL Server
   * **Tools:** Swagger, SonarQube
   * **Current Focus:** Creating the Dashboard 
