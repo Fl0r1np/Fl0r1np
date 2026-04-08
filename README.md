@@ -27,7 +27,7 @@ I'm Florin, a second-year Computer Science student at Babeș-Bolyai University (
 * **[WatchWithMe](https://github.com/Fl0r1np/WatchWithMe)** - *Designed a full-stack web application using Angular and ASP.NET Core to to connect remote users in virtual watch parties, enabling them to instantly sync, pause, and change media together.*
   * **Tech Stack:** Angular, ASP.NET Core, Entity Framework Core, SQL Server
   * **Tools:** Swagger, SonarQube
-  * **Current Focus:** Creating the Dashboard 
+  * **Current Focus:** Develop a synchronized media player utilizing open-source libraries to manage real-time streaming and concurrent participant interactions. 
 
 
 
